@@ -22,7 +22,7 @@ const opelData = {
             working: true
         }
     ],
-    tankSize: {
+    tank: {
         maxSize: 55,
         currentSize: 43
     },
